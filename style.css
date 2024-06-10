@@ -1,0 +1,26 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: w;
+    background-image:url("https://i.pinimg.com/originals/fb/a7/08/fba708dba2bb1c901ebb512a1bacb183.jpg");
+ } 
+img{
+    width:100vw;
+    height:50vw;
+}
+h2{
+    color: blue;
+}
+p{
+    background-color: coral;
+}
+.paragrafo{
+    font-family:"Roboto Condensed", sans-serif;
+    background-color: chartreuse;
+}
+.paragrafo:hover{
+    background-color: gold;
+}
+#logo{
+    width: 15%;
+    height: 15%;
+}
